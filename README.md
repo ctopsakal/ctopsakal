@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ctopsakal
-- 👀 I’m interested in Mobile Programming
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Can
+- 👨🏽‍💻 I'm a Senior No Code Xpoda Developer
+- 👀 I’m interested in TSQL(Views,Triggers,Functions,Stored Procedures)
+- 🌱 I’m currently learning Flutter,Java,C# Etc.
 - 📫 How to reach me ctopsakal1994@gmail.com
 
 <!---
